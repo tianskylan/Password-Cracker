@@ -1,4 +1,4 @@
 # password
 Windows password cracking application
 
-USC Professional C++ class project
+USC Professional C++ class project archive
